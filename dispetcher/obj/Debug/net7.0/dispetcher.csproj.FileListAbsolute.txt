@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\dispetcher\dispetcher\bin\Debug\net7.0\dispetcher.exe
+C:\Users\user1\source\repos\dispetcher\dispetcher\bin\Debug\net7.0\dispetcher.deps.json
+C:\Users\user1\source\repos\dispetcher\dispetcher\bin\Debug\net7.0\dispetcher.runtimeconfig.json
+C:\Users\user1\source\repos\dispetcher\dispetcher\bin\Debug\net7.0\dispetcher.dll
+C:\Users\user1\source\repos\dispetcher\dispetcher\bin\Debug\net7.0\dispetcher.pdb
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\dispetcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\dispetcher.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\dispetcher.AssemblyInfo.cs
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\dispetcher.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\dispetcher.dll
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\refint\dispetcher.dll
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\dispetcher.pdb
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\dispetcher.genruntimeconfig.cache
+C:\Users\user1\source\repos\dispetcher\dispetcher\obj\Debug\net7.0\ref\dispetcher.dll
