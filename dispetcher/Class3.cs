@@ -80,7 +80,7 @@ namespace dispetcher
                         }
                         catch
                         {
-                            Console.Clear();
+                            Console.WriteLine("----------------------------------------------------------");
                             Console.WriteLine("Недостаточно разрешений\nЧто бы вернутся нажмите кнопу Beckspace\nдля выхода - Escape");
                             Class1.strelka(3, 3, 3);
 
